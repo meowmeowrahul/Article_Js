@@ -1,6 +1,14 @@
 <h1>Frontend Mentor - Article Preview Card</h1>
 
 This is my solution to the Article preview component challenge on Frontend Mentor. The project focuses on building a responsive card UI with a dynamic share tooltip using HTML, CSS (Tailwind), and JavaScript.
+
+
+🔗 Live Site
+
+Live Demo
+
+https://meowmeowrahul.github.io/Article_Js/
+
 📸 Screenshot
 
 <img src="outputSS/Desktop-design.png" alt="">
@@ -18,10 +26,8 @@ Ignore Hamborger, She is my Shimeji pet😁️
 <h3>Mobile Active Design </h3>    
 
     
-🔗 Live Site
 
-Live Demo
-(Replace with your GitHub Pages deployment link)
+
 🛠️ Built With
 
     Semantic HTML5
