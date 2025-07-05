@@ -1,0 +1,22 @@
+@import 'tailwindcss';
+
+@theme{
+    --color-dGrayBlue:  hsl(217, 19%, 35%);
+    --color-dBlue: hsl(214, 17%, 51%);
+    --color-GrayBlue:  hsl(212, 23%, 69%);
+    
+    --color-lGrayBlue: hsl(210, 46%, 95%);
+}
+@utility spaced{
+    word-spacing:10px;
+}
+
+@utility triangle{
+    width: 0; 
+  height: 0; 
+  border-left: 20px solid transparent;
+  border-right: 20px solid transparent;
+  
+  border-top: 20px solid  hsl(217, 19%, 35%) ;
+
+}
